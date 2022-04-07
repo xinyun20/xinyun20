@@ -1,7 +1,20 @@
 <h1 align="center"> <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi, I'm Xinyun Li </h1>
 
 💻 I'm a graduate student learning computer vision.<br>
-📷 I'm interested in camera. 
+📷 I'm interested in camera. <br>
+🎵 And I also like J-POP. <br>
+<div align="center">
+<!--- higedan ---> 
+<img src="https://user-images.githubusercontent.com/103158599/162109712-0fdbfd4e-d3e5-42d2-b148-667c63425da9.jpg" width="110"/>
+<!--- yonezu kenshi --->
+<img src="https://user-images.githubusercontent.com/103158599/162111783-a2abff6f-1f4c-461a-9c69-28df4c60ef2e.jpg" width="100"/>
+<!--- ryokusyaka ---> 
+<img src="https://user-images.githubusercontent.com/103158599/162112098-78f795fe-60cf-4d50-9867-460f64d156c0.jpg" width="300"/>
+<!--- sumika ---> 
+<img src="https://user-images.githubusercontent.com/103158599/162112342-e75ac9c5-93d8-430b-9bbe-f552a04cd872.png" width="200"/>
+<!--- mfs ---> 
+<img src="https://user-images.githubusercontent.com/103158599/162112529-f50057af-ff56-49a8-bcee-ac3ae9fd6663.jpg" width="110"/>
+</div>
 
 ## ⭐️ Status
 <div align="center">
