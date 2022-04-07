@@ -51,6 +51,6 @@
 </p>
 
 ## 🎵 Music
-<img src="https://user-images.githubusercontent.com/103158599/162109712-0fdbfd4e-d3e5-42d2-b148-667c63425da9.jpg" width="100px">
+<img src="https://user-images.githubusercontent.com/103158599/162109712-0fdbfd4e-d3e5-42d2-b148-667c63425da9.jpg" width="100px"/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cbegx3aphjhf3b2fvvx57lhk54&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
