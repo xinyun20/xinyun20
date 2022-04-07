@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi, I'm Sherry Li </h1>
+<h1 align="center"> <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi, I'm Xinyun Li </h1>
 
 💻 I'm a graduate student learning computer vision <br>
 📷 I'm interested in camera
@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=radical&show_icons=true" width="520px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinyun20&theme=radical&show_icons=true" width="300px">
+<img src="https://github-readme-stats.vercel.app/api?username=xinyun20&theme=radical&show_icons=true" width="520px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinyun20&theme=radical&show_icons=true" width="300px">
 </div>
 
 ## ⚙️Languages and Tools
@@ -51,9 +51,6 @@
 </p>
 
 ## 🎵 Music
+<img src="https://user-images.githubusercontent.com/103158599/162109712-0fdbfd4e-d3e5-42d2-b148-667c63425da9.jpg" width="100px">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cbegx3aphjhf3b2fvvx57lhk54&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-<!---
-sherry-lxy/sherry-lxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
