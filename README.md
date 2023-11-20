@@ -16,8 +16,16 @@
 <img src="https://user-images.githubusercontent.com/103158599/162112529-f50057af-ff56-49a8-bcee-ac3ae9fd6663.jpg" width="55"/>
 <!--- zutomayo ---> 
 <img src="https://user-images.githubusercontent.com/103158599/165438927-640b3d89-dd23-4a2a-86a3-a2ceb1af68fa.png" width="70"/>
-<!--- mrs ---> 
-<img src="https://user-images.githubusercontent.com/103158599/165439140-fa84c5c3-4e58-4e39-b7a8-fd0e7dae4086.png" width="55"/>
+<!-- 04ls -->
+<img src="https://github.com/xinyun20/xinyun20/assets/103158599/01676c41-7422-4b87-9e0f-828f62b5bed2" width="55"/>
+<!-- マルシィ -->
+<img src="https://github.com/xinyun20/xinyun20/assets/103158599/989b9609-9c1b-496b-9945-187e7671e58f" width="62"/>
+<!-- This is LAST -->
+<img width="170" alt="スクリーンショット 2023-11-20 13 32 45" src="https://github.com/xinyun20/xinyun20/assets/103158599/3ec769bb-e101-4d8c-8045-2e7e0e115fda">
+<!-- NEE -->
+<img width="80" alt="スクリーンショット 2023-11-20 13 34 39" src="https://github.com/xinyun20/xinyun20/assets/103158599/140d91fa-3541-454e-9fc5-8f16e0a3025c">
+
+
 </div>
 
 ## ⭐️ Status
