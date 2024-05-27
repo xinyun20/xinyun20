@@ -1,8 +1,5 @@
 <h1 align="center"> <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi, I'm Xinyun Li </h1>
 
-💻 I'm a graduate student learning computer vision.<br>
-📷 I'm interested in camera. <br>
-🎵 And I also like J-POP. <br>
 <div align="center">
 <!--- higedan ---> 
 <img src="https://user-images.githubusercontent.com/103158599/162109712-0fdbfd4e-d3e5-42d2-b148-667c63425da9.jpg" width="55"/>
